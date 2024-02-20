@@ -1,1 +1,3 @@
-# Manfiy_indeks
+#Manfiy indeks
+a=("kitob", "daftar", "ruchka")
+print(a[-1])
